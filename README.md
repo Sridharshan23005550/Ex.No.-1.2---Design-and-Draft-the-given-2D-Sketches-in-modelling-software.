@@ -35,7 +35,8 @@
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
- ## OUTPUT:![Uploading WhatsApp Image 2023-11-11 at 19.00.34_29adfd94.jpg…]()
+ ## OUTPUT:![WhatsApp Image 2023-11-11 at 19 00 35_89d7f8dc](https://github.com/Sridharshan23005550/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/149986733/37f39015-4c27-4b01-8a0e-4f9e29ad2e35)
+
 
 
  
